@@ -10,11 +10,11 @@ sites:
   - name: LB-01
     url: https://lb-01.m4d3bug.com
     expectedStatusCodes:
-      - 200
+      - 403
   - name: LB-02
     url: https://lb-01.m4d3bug.com
     expectedStatusCodes:
-      - 200
+      - 403
   - name: Google
     url: https://www.google.com
   - name: Google DNS 
