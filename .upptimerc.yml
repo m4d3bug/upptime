@@ -19,6 +19,10 @@ sites:
     url: https://whoogle.madebug.net
     expectedStatusCodes:
       - 200
+  - name: AI
+    url: https://ai.madebug.net
+    expectedStatusCodes:
+      - 200
   - name: Google DNS 
     check: "tcp-ping"
     url: 8.8.4.4
