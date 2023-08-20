@@ -15,8 +15,10 @@ sites:
     url: https://lb-01.m4d3bug.com
     expectedStatusCodes:
       - 403
-  - name: Google
-    url: https://www.google.com
+  - name: Whoogle
+    url: https://whoogle.madebug.net
+    expectedStatusCodes:
+      - 200
   - name: Google DNS 
     check: "tcp-ping"
     url: 8.8.4.4
