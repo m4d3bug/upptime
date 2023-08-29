@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: LB-02
-    url: https://lb-01.m4d3bug.com
+    url: https://lb-02.m4d3bug.com
     expectedStatusCodes:
       - 200
   - name: Whoogle
