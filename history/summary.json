@@ -22,9 +22,9 @@
     "url": "https://lb-01.m4d3bug.com",
     "icon": "https://icons.duckduckgo.com/ip3/lb-01.m4d3bug.com.ico",
     "slug": "lb-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
@@ -34,6 +34,7 @@
     "timeMonth": 2723,
     "timeYear": 2558,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-09-29": 34,
       "2023-09-27": 41,
       "2023-08-29": 16
