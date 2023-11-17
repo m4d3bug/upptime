@@ -7,6 +7,10 @@ sites:
     url: https://blog.madebug.net
     expectedStatusCodes:
       - 200
+  - name: LB-00
+    url: https://lb-00.m4d3bug.com
+    expectedStatusCodes:
+      - 200
   - name: LB-01
     url: https://lb-01.m4d3bug.com
     expectedStatusCodes:
