@@ -19,6 +19,10 @@ sites:
     url: https://lb-02.m4d3bug.com
     expectedStatusCodes:
       - 200
+  - name: LB-03
+    url: https://lb-03.m4d3bug.com
+    expectedStatusCodes:
+      - 200
   - name: Whoogle
     url: https://whoogle.madebug.net
     expectedStatusCodes:
