@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 1304,
+      "2024-01-17": 1315,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -156,19 +156,19 @@
     "url": "https://ai.madebug.net",
     "icon": "https://icons.duckduckgo.com/ip3/ai.madebug.net.ico",
     "slug": "ai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 681,
-    "timeWeek": 236,
-    "timeMonth": 162,
+    "timeDay": 542,
+    "timeWeek": 239,
+    "timeMonth": 165,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
