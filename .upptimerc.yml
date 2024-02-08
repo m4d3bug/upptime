@@ -35,6 +35,10 @@ sites:
     url: https://ai.madebug.net
     expectedStatusCodes:
       - 200
+  - name: CFyes CName 
+    check: "tcp-ping"
+    url: cfyes.m4d3bug.com
+    port: 80
   - name: Google DNS 
     check: "tcp-ping"
     url: 8.8.4.4
