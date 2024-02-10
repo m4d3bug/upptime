@@ -116,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lb-03.m4d3bug.com.ico",
     "slug": "lb-03",
     "status": "up",
-    "uptime": "58.13%",
+    "uptime": "58.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.68%",
-    "uptimeMonth": "64.00%",
-    "uptimeYear": "58.13%",
+    "uptimeMonth": "64.02%",
+    "uptimeYear": "58.14%",
     "time": 641,
     "timeDay": 911,
     "timeWeek": 748,
@@ -163,7 +163,7 @@
     "timeMonth": 410,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-02-10": 1343,
+      "2024-02-10": 1355,
       "2024-02-09": 1440,
       "2024-02-08": 698
     }
@@ -173,19 +173,19 @@
     "url": "https://whoogle.madebug.net",
     "icon": "https://icons.duckduckgo.com/ip3/whoogle.madebug.net.ico",
     "slug": "whoogle",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 676,
-    "timeWeek": 994,
-    "timeMonth": 1057,
-    "timeYear": 1110,
+    "time": 1109,
+    "timeDay": 733,
+    "timeWeek": 982,
+    "timeMonth": 1051,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 11
     }
   },
   {
