@@ -38,7 +38,7 @@ sites:
   - name: CFyes
     check: "tcp-ping"
     url: cfyes.m4d3bug.com
-    port: 80
+    port: 443
   - name: Google DNS 
     check: "tcp-ping"
     url: 8.8.4.4
